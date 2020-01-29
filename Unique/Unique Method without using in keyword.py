@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def Unique(lst):
     try:
         temp = [lst[0]]
@@ -22,10 +16,3 @@ def Unique(lst):
 
 x = [1,2,2,6,3,4,5,4,3,5,6,1,9]
 print(Unique(x))
-
-
-# In[ ]:
-
-
-
-
